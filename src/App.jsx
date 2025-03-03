@@ -7,16 +7,14 @@ import ClickTimer from "./ClickTimer";
 import CharacterCounter from "./CharacterCounter";
 import ToggleVisibility from "./ToggleVisibility";
 import TimerDown from "./TimerDown";
+import ToDoList from "./ToDoList";
+import Counter from "./Counter";
+import LanguageSwitcher from "./LanguageSwitcher";
 function App() {
 
   return (
     <>
-    <TimerDown/>
-
-
-
-
-
+    <LanguageSwitcher/>
     </>
   )
 }
