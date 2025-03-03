@@ -5,11 +5,12 @@ import PasswordToggle from "./PasswordToggle";
 import TextToggle from "./TextToggle";
 import ClickTimer from "./ClickTimer";
 import CharacterCounter from "./CharacterCounter";
+import ToggleVisibility from "./ToggleVisibility";
 function App() {
 
   return (
     <>
-<CharacterCounter/>
+<ToggleVisibility/>
 
 
 
