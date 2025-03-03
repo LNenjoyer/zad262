@@ -6,11 +6,12 @@ import TextToggle from "./TextToggle";
 import ClickTimer from "./ClickTimer";
 import CharacterCounter from "./CharacterCounter";
 import ToggleVisibility from "./ToggleVisibility";
+import TimerDown from "./TimerDown";
 function App() {
 
   return (
     <>
-<ToggleVisibility/>
+    <TimerDown/>
 
 
 
